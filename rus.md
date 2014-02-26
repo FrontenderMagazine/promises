@@ -765,10 +765,10 @@ new Promise(function(resolve, reject) {});
 Огромное спасибо Anne van Kesteren, Domenic Denicola, Tom Ashworth, Remy Sharp,
 Addy Osmani, Arthur Evans, и Yutaka Hirano кто помог мне вычитать статью и внести правки.
 
- [1]: http://www.html5rocks.com/en/tutorials/es6/promises/#toc-async
+ [1]: #toc-async
 
- [2]: http://www.html5rocks.com/en/tutorials/es6/promises/#toc-promise-terminology
- [3]: http://www.html5rocks.com/en/tutorials/es6/promises/#toc-api
+ [2]: #toc-promise-terminology
+ [3]: #toc-api
  [4]: https://twitter.com/domenic
 
  [5]: https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md
