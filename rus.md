@@ -809,4 +809,4 @@ Addy Osmani, Arthur Evans, и Yutaka Hirano кто помог мне вычит�
  [Гифка-1]: img/promise1.gif
  [Гифка-2]: img/promise2.gif
  [Гифка-3]: img/promise3.gif
- [Работа промисов]: "img/promise-flow.svg" "Работа промисов" 
+ [Работа промисов]: img/promise-flow.svg "Работа промисов" 
