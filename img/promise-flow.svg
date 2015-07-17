@@ -9,7 +9,7 @@
         stroke-opacity: 0.32;
     }
     .box-text {
-        font-size: 16px;
+        font-size: 15px;
         fill: #000000;
         font-family: "Bad Script", cursive;
         text-anchor: middle;
