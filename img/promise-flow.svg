@@ -1,6 +1,6 @@
 <svg
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 459 422">
-    <style>@import "http://fonts.googleapis.com/css?family=Bad+Script"; .fill { fill: none; stroke: #4CA3CC; stroke-width: 17px; stroke-opacity: 0.32; } .box-text { font-size: 16px; line-height: 18px; fill: #000000; font-family: Bad Script; text-anchor: middle; } .box-outline { fill: none; stroke: #000000; stroke-width: 6.3; stroke-linejoin: round; } .joiner { fill: none; stroke: #000000; stroke-width: 3.8; stroke-linecap: round; } .pos { stroke: #006900; } .neg { stroke: #a00; }</style>
+    <style>@import "http://fonts.googleapis.com/css?family=Bad+Script"; .fill { fill: none; stroke: #4CA3CC; stroke-width: 17px; stroke-opacity: 0.32; } .box-text { font-size: 16px; line-height: 18px; fill: #000000; font-family: "Bad Script", cursive; text-anchor: middle; } .box-outline { fill: none; stroke: #000000; stroke-width: 6.3; stroke-linejoin: round; } .joiner { fill: none; stroke: #000000; stroke-width: 3.8; stroke-linecap: round; } .pos { stroke: #006900; } .neg { stroke: #a00; }</style>
     <g transform="translate(-58.5 -54.929)" class="box">
         <path d="M226 63.4l-158 5 164 15-157 2 152 13-160 2.6 164 11" class="fill"/>
         <path d="M223 67.3l-140-3.9-1.97 46.9 141 .971-.117-30.8" class="box-outline"/>
